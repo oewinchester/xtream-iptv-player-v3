@@ -4,4 +4,4 @@ I believe this type of projects should maintain themselves free when everything 
 
 @oewinchester
 
-I'm open for questions, just make a new issue or contact me.
+I'm open for questions, just make a new issue or contact me,,
